@@ -233,7 +233,7 @@
                   <div class="col-md-4">
                       <div class="card my-3" style="width: 24rem; height:27rem;">
                           <div class="card-img-top"
-                              style="background-image: url('images/Edunet.jpg');background-size: cover; height:700px; padding-top:80px;">
+                              style="background-image: url('E:\profile\edunet.jpeg');background-size: cover; height:700px; padding-top:80px;">
                           </div>
                           <!--<img src="/images/Edunet.jpg" class="card-img-top" alt="certificate">-->
                           <div class="card-body">
@@ -264,7 +264,7 @@
                   <div class="col-md-6">
                       <div class="card my-3" style="width: 30rem; height:30rem;">
                           <div class="card-img-top"
-                              style="background-image: url('images/isro.jpg');background-size: cover; height:700px; padding-top:80px;">
+                              style="background-image: url('E:\profile\isro.jpeg');background-size: cover; height:700px; padding-top:80px;">
                           </div>
                           <!-- <img src="/images/isro.jpg" class="card-img-top" alt="certificate">-->
                           <div class="card-body">
@@ -279,7 +279,7 @@
                 <div class="col-md-6">
                     <div class="card my-3" style="width: 30rem; height:35rem;">
                         <div class="card-img-top"
-                            style="background-image: url('images/pythocraft.jpg');background-size: cover; height:700px; padding-top:80px;">
+                            style="background-image: url('E:\profile\pythocraft.jpeg');background-size: cover; height:700px; padding-top:80px;">
                         </div>
                         <!-- <img src="/images/pythocraft.jpg" class="card-img-top" alt="certificate">-->
                         <div class="card-body">

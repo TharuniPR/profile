@@ -122,13 +122,7 @@
             <hr>
             <h1 class="text-center" style="color: rgba(10, 16, 6, 0.699);">About Me</h1>
             <hr>
-            <div class="row">
-                <div class="col-md-4"
-                    style="background-image: url('images/nikki1.jpg');background-size: cover; height:700px; padding-top:80px">
-                    <!-- <img src="/images/nikki1.jpg" alt="passportimage"
-        class="card-img img-fluid">-->
-                </div>
-                <div class="col-md-8">
+            <div class="col-md-8">
                     <p>Hello There..!
                         I am Tharuni Priya.Currently I am studying BTech final year.I love web
                         Designing.Learned html,css and javascript <b style="font-weight: 800;">IBM internships</b>
@@ -200,7 +194,7 @@
                 <div class="col-md-4">
                     <div class="card my-3" style="width: 24rem; height:30rem;">
                         <div class="card-img-top"
-                            style="background-image: url('images/workshop on PCB Design.jpg');background-size: cover; height:700px; padding-top:80px;">
+                            style="background-image: url("E:\profile\workshop on PCB Design.jpeg");background-size: cover; height:700px; padding-top:80px;">
                         </div>
                         <!--<img src="/images/workshop on PCB Design.jpg" class="card-img-top" alt="certificate">-->
                         <div class="card-body">

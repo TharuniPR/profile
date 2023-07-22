@@ -196,7 +196,7 @@
                         <div class="card-img-top"
                             style="background-image: url('E:\profile\workshop on PCB Design.jpeg');background-size: cover; height:700px; padding-top:80px;">
                         </div>
-                        <!--<img src="/images/workshop on PCB Design.jpg" class="card-img-top" alt="certificate">-->
+                        <!--<img src="E:\profile\workshop on PCB Design.jpeg" class="card-img-top" alt="certificate">-->
                         <div class="card-body">
                             <p class="card-text text-center"><b>Purple Techno Solutions Internship</b><br>workshop on PCB Design<br>Sep
                                 2022<br>Duration-2 Days</p>
@@ -211,7 +211,7 @@
                         <div class="card-img-top"
                             style="background-image: url('E:\profile\internship on AI.jpeg');background-size: cover; height:700px; padding-top:80px;">
                         </div>
-                        <!--<img src="/images/internship on AI.jpg" class="card-img-top" alt="certificate">-->
+                        <!--<img src="E:\profile\internship on AI.jpeg" class="card-img-top" alt="certificate">-->
                         <div class="card-body">
                             <p class="card-text text-center"><b> Istop Techfest IIT Bombay Internship</b><br>
                                 Internship on AI<br>Sep 2022<br>Duration-2 months</p>
@@ -223,7 +223,7 @@
                           <div class="card-img-top"
                               style="background-image: url('E:\profile\purple.jpeg');background-size: cover; height:700px; padding-top:80px;">
                           </div>
-                          <!-- <img src="/images/purple.jpg" class="card-img-top" alt="certificate">-->
+                          <!-- <img src="E:\profile\purple.jpeg" class="card-img-top" alt="certificate">-->
                           <div class="card-body">
                               <p class="card-text text-center"><b>Purple Techno Solutions Internship</b><br>Training on Advanced Micro controllers and their applications
                                 <br>Sep 2022<br>Duration-1 Week</p>
@@ -235,7 +235,7 @@
                           <div class="card-img-top"
                               style="background-image: url('E:\profile\edunet.jpeg');background-size: cover; height:700px; padding-top:80px;">
                           </div>
-                          <!--<img src="/images/Edunet.jpg" class="card-img-top" alt="certificate">-->
+                          <!--<img src="E:\profile\edunet.jpeg" class="card-img-top" alt="certificate">-->
                           <div class="card-body">
                               <p class="card-text text-center"><b>IBM Skillsbuild</b><br>Front-End
                                   Development<br>July-2023<br>Duration-6 Weeks</p>
@@ -266,7 +266,7 @@
                           <div class="card-img-top"
                               style="background-image: url('E:\profile\isro.jpeg');background-size: cover; height:700px; padding-top:80px;">
                           </div>
-                          <!-- <img src="/images/isro.jpg" class="card-img-top" alt="certificate">-->
+                          <!-- <img src="E:\profile\isro.jpeg" class="card-img-top" alt="certificate">-->
                           <div class="card-body">
                               <p class="card-text text-center"><b>Applications of Machine Learning in Urban Studies</b><br>June
                                   2023<br>Duration-5 Days course<br></p>
@@ -281,7 +281,7 @@
                         <div class="card-img-top"
                             style="background-image: url('E:\profile\pythocraft.jpeg');background-size: cover; height:700px; padding-top:80px;">
                         </div>
-                        <!-- <img src="/images/pythocraft.jpg" class="card-img-top" alt="certificate">-->
+                        <!-- <img src="'E:\profile\pythocraft.jpeg" class="card-img-top" alt="certificate">-->
                         <div class="card-body">
                             <p class="card-text text-center"><b>The Pythocraft</b><br>Sep
                                 2022<br></p>

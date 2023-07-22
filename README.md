@@ -164,8 +164,8 @@
                     <div class="row">
                         <p class="bold">
 
-                            Done my schooling in Basara School which is located in Guntur scored 9.5 Cgpa
-                            .I done my intermediate
+                            Done my schooling in Sri Venkateswara Bala Kuteer which is located in Guntur.
+                            I done my intermediate
                             in Nirmala Junior College with cgpa 8.66.Doing my under graduation in Vignan's Nirula
                             Institute of Technology and Science for Women
                             on<b> Electronics and Communication Engineering</b> with maintaining cgpa 7.0.Intrested in

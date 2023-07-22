@@ -130,7 +130,7 @@
                 </div>
                 <div class="col-md-8">
                     <p>Hello There..!
-                        I am Nikitha Bhimireddy.Currently I am studying Bachelor Of Technology final year.I love web
+                        I am Tharuni Priya.Currently I am studying BTech final year.I love web
                         Designing.Learned html,css and javascript <b style="font-weight: 800;">IBM internships</b>
                         Looking for various exciting internships and jobs in frontend and backend development.Let's see
                         some details about me.....
@@ -138,12 +138,12 @@
                     <div class="row">
                         <div class="col-md-6">
                             <ul>
-                                <li><b>Name:</b>Nikitha Bhimireddy</li>
+                                <li><b>Name:</b>Chillapalli Tharuni Priya</li>
                                 <li><b>Age:</b> 19</li>
                                 <li><b>Occupation:</b>Student</li>
                                 <li><b>Under Graduation:</b>Btech</li>
                                 <li><b>Stream:</b>Electronics and Communication Engineering</li>
-                                <li><b>cgpa:</b>7.00</li>
+                                <li><b>cgpa:</b>7.21</li>
                                 <li><b>College Email Address:</b>vnits.g@gmail.com</li>
                             </ul>
 
@@ -151,11 +151,9 @@
                         <div class="col-md-6">
                             <ul>
                                 <li><b>College Name</b>: Vignan's Nirula Institute of Technology and Science for Women</li>
-                                <li><b>Schooling</b>: Basara school</li>
-                                <li><b>Schooling Cgpa</b>: 9.5</li>
-                                <li><b>Intermediate</b> : Nirmala Junior College</li>
-                                <li><b>Intermediate Cgpa</b>: 8.66</li>
-                                <li><b>Personal Email Address:</b>bhimireddynikitha@gmail.com</li>
+                                <li><b>Schooling</b>: Sri Venkateswara Bala Kuteer</li>
+                                <li><b>Intermediate</b> : Bhashyam IIT Junior College</li>
+                                <li><b>Personal Email Address:</b>tharunipriya01@gmail.com</li>
                                 <li><b>Home Location</b>: Guntur,AP</li>
                             </ul>
                         </div>
@@ -166,9 +164,9 @@
 
                             Done my schooling in Sri Venkateswara Bala Kuteer which is located in Guntur.
                             I done my intermediate
-                            in Nirmala Junior College with cgpa 8.66.Doing my under graduation in Vignan's Nirula
+                            in Bhashyam IIT Junior College with cgpa 8.4.Doing my under graduation in Vignan's Nirula
                             Institute of Technology and Science for Women
-                            on<b> Electronics and Communication Engineering</b> with maintaining cgpa 7.0.Intrested in
+                            on<b> Electronics and Communication Engineering</b> with maintaining cgpa 7.21.Intrested in
                             webtechnology.Looking for web based
                             jobs.Done internship in <b>IBM Skillsbuild</b> about Front-End Development which consists of
                             creating a project about Portfolio

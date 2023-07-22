@@ -200,31 +200,6 @@
                 <div class="col-md-4">
                     <div class="card my-3" style="width: 24rem; height:30rem;">
                         <div class="card-img-top"
-                            style="background-image: url('images/virtual internship.jpg');background-size: cover; height:700px; padding-top:80px;">
-                        </div>
-                        <!--<img src="images/virtual internship.jpg" class="card-img-top" alt="certificate">-->
-                        <div class="card-body">
-                            <p class="card-text text-center"><b>APSCHE-EduSkills Internship</b><br>
-                                Cyber Security <br>Nov 2022<br>Duration-8 Weeks</p>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-md-4">
-                    <div class="card my-3" style="width: 24rem; height:30rem;">
-                        <div class="card-img-top"
-                            style="background-image: url('images/talentio internship.jpg');background-size: cover; height:700px; padding-top:80px;">
-                        </div>
-                        <!-- <img src="/images/talentio internship.jpg" class="card-img-top" alt="certificate">-->
-                        <div class="card-body">
-                            <p class="card-text text-center"><b>Talentio Academy Internship</b><br>Full Stack Java
-                                Development<br>Nov 2022 <br>Duration-8 Weeks</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card my-3" style="width: 24rem; height:30rem;">
-                        <div class="card-img-top"
                             style="background-image: url('images/workshop on PCB Design.jpg');background-size: cover; height:700px; padding-top:80px;">
                         </div>
                         <!--<img src="/images/workshop on PCB Design.jpg" class="card-img-top" alt="certificate">-->
@@ -240,12 +215,12 @@
                 <div class="col-md-4">
                     <div class="card my-3" style="width: 24rem; height:27rem;">
                         <div class="card-img-top"
-                            style="background-image: url('images/internship on IOT.jpg');background-size: cover; height:700px; padding-top:80px;">
+                            style="background-image: url('images/internship on AI.jpg');background-size: cover; height:700px; padding-top:80px;">
                         </div>
-                        <!--<img src="/images/internship on IOT.jpg" class="card-img-top" alt="certificate">-->
+                        <!--<img src="/images/internship on AI.jpg" class="card-img-top" alt="certificate">-->
                         <div class="card-body">
-                            <p class="card-text text-center"><b>Purple Techno Solutions Internship</b><br>
-                                Internship on IOT<br>Sep 2022<br>Duration-2 Weeks</p>
+                            <p class="card-text text-center"><b> Istop Techfest IIT Bombay Internship</b><br>
+                                Internship on AI<br>Sep 2022<br>Duration-2 months</p>
                         </div>
                     </div>
                   </div>
@@ -305,43 +280,16 @@
                       </div>
   
                   </div>
-                  <div class="col-md-6">
-                      <div class="card my-3" style="width: 30rem; height:30rem;">
-                          <div class="card-img-top"
-                              style="background-image: url('images/html.jpg');background-size: cover; height:700px; padding-top:80px;">
-                          </div>
-                          <!--  <img src="/images/html.jpg" class="card-img-top" alt="certificate">-->
-                          <div class="card-body">
-                              <p class="card-text text-center"><b>Solo Learn-html</b><br>Sep 2022<br>
-                                   <br></p>
-                          </div>
-                      </div>
-  
-                  </div>
-              </div>
-              <!--prev-->
-              <div class="row">
-                  <div class="col-md-6">
-                      <div class="card my-3" style="width: 30rem; height:35rem;">
-                          <div class="card-img-top"
-                              style="background-image: url('images/infosys.jpg');background-size: cover; height:700px; padding-top:80px;">
-                          </div>
-                          <!-- <img src="/images/infosys.jpg" class="card-img-top" alt="certificate">-->
-                          <div class="card-body">
-                            <p class="card-text text-center"><b>Infosys</b><br>Programming fundamentals using Python<br>March
-                                2023<br></p>
-                        </div>
-                    </div>
-
-                </div>
+                  <!--prev-->
+              
                 <div class="col-md-6">
                     <div class="card my-3" style="width: 30rem; height:35rem;">
                         <div class="card-img-top"
-                            style="background-image: url('images/python.jpg');background-size: cover; height:700px; padding-top:80px;">
+                            style="background-image: url('images/pythocraft.jpg');background-size: cover; height:700px; padding-top:80px;">
                         </div>
-                        <!-- <img src="/images/python.jpg" class="card-img-top" alt="certificate">-->
+                        <!-- <img src="/images/pythocraft.jpg" class="card-img-top" alt="certificate">-->
                         <div class="card-body">
-                            <p class="card-text text-center"><b>Solo Learn-Python</b><br>Sep
+                            <p class="card-text text-center"><b>The Pythocraft</b><br>Sep
                                 2022<br></p>
                         </div>
                     </div>
@@ -425,7 +373,7 @@
             
             <div class="text-center text-dark p-3" style="background-color: white;">
                <b>© 2023 Copyright :</b> 
-                <a class="text-dark" href="#">BhimireddyNikitha</a>
+                <a class="text-dark" href="#">TharuniPriya</a>
             </div>
             
             <!-- Copyright -->

@@ -194,7 +194,7 @@
                 <div class="col-md-4">
                     <div class="card my-3" style="width: 24rem; height:30rem;">
                         <div class="card-img-top"
-                            style="background-image: url("E:\profile\workshop on PCB Design.jpeg");background-size: cover; height:700px; padding-top:80px;">
+                            style="background-image: url('E:\profile\workshop on PCB Design.jpeg');background-size: cover; height:700px; padding-top:80px;">
                         </div>
                         <!--<img src="/images/workshop on PCB Design.jpg" class="card-img-top" alt="certificate">-->
                         <div class="card-body">
@@ -209,7 +209,7 @@
                 <div class="col-md-4">
                     <div class="card my-3" style="width: 24rem; height:27rem;">
                         <div class="card-img-top"
-                            style="background-image: url('images/internship on AI.jpg');background-size: cover; height:700px; padding-top:80px;">
+                            style="background-image: url('E:\profile\internship on AI.jpeg');background-size: cover; height:700px; padding-top:80px;">
                         </div>
                         <!--<img src="/images/internship on AI.jpg" class="card-img-top" alt="certificate">-->
                         <div class="card-body">
@@ -221,7 +221,7 @@
                   <div class="col-md-4">
                       <div class="card my-3" style="width: 24rem; height:27rem;">
                           <div class="card-img-top"
-                              style="background-image: url('images/purple.jpg');background-size: cover; height:700px; padding-top:80px;">
+                              style="background-image: url('E:\profile\purple.jpeg');background-size: cover; height:700px; padding-top:80px;">
                           </div>
                           <!-- <img src="/images/purple.jpg" class="card-img-top" alt="certificate">-->
                           <div class="card-body">
